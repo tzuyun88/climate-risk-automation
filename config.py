@@ -1,10 +1,10 @@
 # ============ 路徑與常數設定 ============
 
-EXCEL_PATH      = r"TEJESG.xlsx"
-TEMPLATE_PATH   = r"template0.docx"
-OUTPUT_PATH     = r"output.docx"
-ADDRESS_EXCEL   = r"address.xlsx"
-PICTURE_DIR     = r"."
+EXCEL_PATH      = r"inputs/TEJESG.xlsx"
+TEMPLATE_PATH   = r"inputs/template0.docx"
+OUTPUT_PATH     = r"output.docx"           
+ADDRESS_EXCEL   = r"inputs/address.xlsx"
+PICTURE_DIR     = r"inputs"
 
 # 主要工作表名稱列表
 SHEET_NAMES = [
