@@ -1,0 +1,16 @@
+# Python 快取
+__pycache__/
+*.pyc
+
+# 實際的業務資料（避免洩漏機密）
+TEJESG.xlsx
+address.xlsx
+template0.docx
+output.docx
+output_new.docx
+picture*.jpg
+picture*.png
+
+# 環境虛擬包
+.venv/
+venv/
